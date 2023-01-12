@@ -1,4 +1,6 @@
-### Hi there 👋
+sou filho da Elaine ❤
+
+email: lucas@jandrey.dev
 
 <!--
 **jandr3y/jandr3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
