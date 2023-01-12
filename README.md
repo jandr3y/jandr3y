@@ -1,4 +1,4 @@
-sou filho da Elaine ❤
+sou filho da Elaine 
 
 email: lucas@jandrey.dev
 
