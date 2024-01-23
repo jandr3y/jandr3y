@@ -1,4 +1,10 @@
-sou filho da Elaine 
+EN
+
+With approximately eight years of professional experience in programming and a strong focus on web development, I work in various areas within this field. My expertise includes API development using PHP and Javascript, front-end interface creation with React, and significant contributions to DevOps solutions, with a focus on technologies such as Docker and AWS. My current interests revolve around topics like scalability, code patterns and structures, as well as efficient project management.
+
+PT
+
+Com aproximadamente oito anos de experiência profissional em programação e um grande foco no desenvolvimento web, atuo em várias áreas desse campo. Meu conhecimento abrange o desenvolvimento de APIs utilizando PHP e Javascript, a criação de interfaces front-end com React, e contribuições significativas para soluções DevOps, com foco em tecnologias como Docker e AWS. Meus interesses atuais giram em torno de temas como escalabilidade, padrões e estruturas de código, além do gerenciamento eficiente de projetos.
 
 email: lucas@jandrey.dev
 
